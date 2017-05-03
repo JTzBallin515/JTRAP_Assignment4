@@ -1,0 +1,23 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JTRAP_Assignment4", "JTRAP_Assignment4\JTRAP_Assignment4.csproj", "{ABE23AFD-8761-4079-BB31-DD515EFA8151}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|iPhoneSimulator = Debug|iPhoneSimulator
+		Release|iPhone = Release|iPhone
+		Release|iPhoneSimulator = Release|iPhoneSimulator
+		Debug|iPhone = Debug|iPhone
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ABE23AFD-8761-4079-BB31-DD515EFA8151}.Debug|iPhoneSimulator.ActiveCfg = Debug|iPhoneSimulator
+		{ABE23AFD-8761-4079-BB31-DD515EFA8151}.Debug|iPhoneSimulator.Build.0 = Debug|iPhoneSimulator
+		{ABE23AFD-8761-4079-BB31-DD515EFA8151}.Release|iPhone.ActiveCfg = Release|iPhone
+		{ABE23AFD-8761-4079-BB31-DD515EFA8151}.Release|iPhone.Build.0 = Release|iPhone
+		{ABE23AFD-8761-4079-BB31-DD515EFA8151}.Release|iPhoneSimulator.ActiveCfg = Release|iPhoneSimulator
+		{ABE23AFD-8761-4079-BB31-DD515EFA8151}.Release|iPhoneSimulator.Build.0 = Release|iPhoneSimulator
+		{ABE23AFD-8761-4079-BB31-DD515EFA8151}.Debug|iPhone.ActiveCfg = Debug|iPhone
+		{ABE23AFD-8761-4079-BB31-DD515EFA8151}.Debug|iPhone.Build.0 = Debug|iPhone
+	EndGlobalSection
+EndGlobal
